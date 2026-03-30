@@ -1,0 +1,14 @@
+[
+  {
+    "question_id": "ETH_01",
+    "prompt": "Consider a policy that reduces emissions but may displace some communities. Which response best matches ethical reasoning?",
+    "options": [
+      "It is fine to proceed as long as emissions drop, regardless of who is harmed",
+      "It is wrong to harm communities, but there is no need to consider climate benefits",
+      "We should consider multiple viewpoints (climate benefits and harms) and weigh trade-offs",
+      "Balance effectiveness and fairness by proposing safeguards (e.g., compensation, fair access, and harm reduction) with justification across viewpoints"
+    ],
+    "option_scores": [1, 1, 2, 4]
+  }
+]
+

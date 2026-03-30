@@ -1,0 +1,205 @@
+[
+  {
+    "item_id": "F_01",
+    "title": "Greenhouse effect: the core idea",
+    "content_type": "foundation",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 70,
+    "body_markdown": "The **greenhouse effect** happens because certain gases (like CO2 and methane) let most incoming sunlight through, but **absorb and re-emit infrared (heat) radiation**. This traps more heat in the lower atmosphere, raising average temperatures."
+  },
+  {
+    "item_id": "F_02",
+    "title": "Carbon cycle: sources and sinks",
+    "content_type": "foundation",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 70,
+    "body_markdown": "**Sources** add CO2 to the atmosphere (e.g., burning fossil fuels). **Sinks** remove CO2 (e.g., forests and oceans absorbing CO2). Over time, the carbon cycle helps balance how much CO2 is in the air."
+  },
+  {
+    "item_id": "F_03",
+    "title": "Renewable vs non-renewable energy",
+    "content_type": "foundation",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 70,
+    "body_markdown": "In this study, think of **non-renewables** (coal, oil, gas) as energy sources that take **long timescales** to replenish, and often emit substantial CO2 when used. **Renewables** (solar, wind, hydro, etc.) are replenished on short timescales and typically have lower operating emissions—though they can still create trade-offs."
+  },
+  {
+    "item_id": "F_04",
+    "title": "Water cycle basics",
+    "content_type": "foundation",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 65,
+    "body_markdown": "The **water cycle** moves water between the atmosphere, land, and oceans via evaporation, condensation, precipitation, and runoff. Changes in climate can shift **where** and **when** water is available."
+  },
+  {
+    "item_id": "F_05",
+    "title": "Linear thinking vs feedback thinking",
+    "content_type": "foundation",
+    "difficulty": "medium",
+    "stage_required": 1,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 80,
+    "body_markdown": "In **linear thinking**, A causes B and the effect does not loop back. In **feedback thinking**, changes can **reinforce** or **dampen** themselves: B changes C, and C returns to affect A."
+  },
+  {
+    "item_id": "F_06",
+    "title": "Trade-offs in sustainability decisions",
+    "content_type": "foundation",
+    "difficulty": "medium",
+    "stage_required": 1,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 80,
+    "body_markdown": "Sustainability decisions often involve trade-offs (environment, health, cost, jobs, and fairness). A systems view asks: **What feedbacks, delays, and interactions could change the outcome over time?**"
+  },
+
+  {
+    "item_id": "I_01",
+    "title": "Cause-effect chain: emissions to impacts",
+    "content_type": "intermediate",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 85,
+    "body_markdown": "A **cause-effect chain** links steps (e.g., CO2 emissions → warming → impacts such as sea level rise and heat extremes). The key is to track each link rather than skipping from a cause directly to an outcome."
+  },
+  {
+    "item_id": "I_02",
+    "title": "Feedback loops: ice-albedo example",
+    "content_type": "intermediate",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 90,
+    "body_markdown": "A **positive feedback** can amplify change: warming reduces ice → less ice means lower reflectivity (**albedo**) → more heat is absorbed → more warming. Feedbacks can change how fast a system shifts."
+  },
+  {
+    "item_id": "I_03",
+    "title": "Delays: why outcomes lag",
+    "content_type": "intermediate",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 90,
+    "body_markdown": "Many climate mechanisms have **delays**. For example, oceans absorb heat and can release effects later. This means actions today can have outcomes over years or decades."
+  },
+  {
+    "item_id": "I_04",
+    "title": "Interactions: energy and water connections",
+    "content_type": "intermediate",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "no",
+    "estimated_duration_s": 95,
+    "body_markdown": "Systems interact: energy choices can affect water use (cooling, extraction), and water conditions can affect energy reliability (hydropower, heat for cooling). Changes in one part can cascade."
+  },
+
+  {
+    "item_id": "A_01",
+    "title": "Multiple interacting loops",
+    "content_type": "advanced",
+    "difficulty": "high",
+    "stage_required": 3,
+    "load_risk": "high",
+    "ethical_flag": "no",
+    "estimated_duration_s": 120,
+    "body_markdown": "Real systems often include **multiple loops**. For example, emissions increase warming, which can trigger ice loss (feedback), which then influences further warming. Interactions can make outcomes harder to predict from any single link."
+  },
+  {
+    "item_id": "A_02",
+    "title": "Thresholds and long-term consequences",
+    "content_type": "advanced",
+    "difficulty": "high",
+    "stage_required": 3,
+    "load_risk": "high",
+    "ethical_flag": "no",
+    "estimated_duration_s": 120,
+    "body_markdown": "Some systems have **thresholds** (tipping points). Past a threshold, the system can shift more abruptly and be harder to reverse. Long-term consequences can emerge even if short-term changes seem small."
+  },
+  {
+    "item_id": "A_03",
+    "title": "Timing trade-offs: mitigation vs delay",
+    "content_type": "advanced",
+    "difficulty": "high",
+    "stage_required": 3,
+    "load_risk": "high",
+    "ethical_flag": "no",
+    "estimated_duration_s": 130,
+    "body_markdown": "Because of delays and feedbacks, **early mitigation** can reduce cumulative risk. Delaying action can lock in higher warming, increasing the chance of crossing thresholds and raising the difficulty of later fixes."
+  },
+
+  {
+    "item_id": "S_01",
+    "title": "Worked example: from emissions to impacts",
+    "content_type": "scaffolding",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 75,
+    "body_markdown": "Worked example (simplified):\n1) More fossil-fuel use → higher CO2.\n2) Higher CO2 → stronger greenhouse effect.\n3) Stronger greenhouse effect → warming.\n4) Warming → impacts (e.g., sea level rise, heat extremes).\nCheck each arrow before jumping to conclusions."
+  },
+  {
+    "item_id": "S_02",
+    "title": "Hint page: spotting feedback vs linear claims",
+    "content_type": "scaffolding",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 60,
+    "body_markdown": "When you read a claim, ask: does the effect loop back? If the described cause returns to influence itself (directly or via intermediates), you likely have a **feedback**. If it is one pass from cause to effect, it is likely **linear**."
+  },
+  {
+    "item_id": "S_03",
+    "title": "Summary page: systems thinking checklist",
+    "content_type": "scaffolding",
+    "difficulty": "low",
+    "stage_required": 1,
+    "load_risk": "low",
+    "ethical_flag": "no",
+    "estimated_duration_s": 55,
+    "body_markdown": "Checklist for systems thinking:\n- Are you using **cause-effect links**?\n- Are there **feedback loops**?\n- Are there **delays**?\n- Are there **interactions** between parts?\n- Do you mention potential **unintended consequences**?"
+  },
+
+  {
+    "item_id": "E_01",
+    "title": "Ethical dilemma: renewable project vs community impact",
+    "content_type": "ethical",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "yes",
+    "estimated_duration_s": 90,
+    "body_markdown": "A region approves a renewable energy project that reduces emissions, but nearby residents fear displacement and unequal benefits. A decision-maker must choose a plan that is both effective and fair. What response best reflects a balanced, ethical approach?"
+  },
+  {
+    "item_id": "E_02",
+    "title": "Ethical dilemma: water allocation conflict",
+    "content_type": "ethical",
+    "difficulty": "medium",
+    "stage_required": 2,
+    "load_risk": "medium",
+    "ethical_flag": "yes",
+    "estimated_duration_s": 95,
+    "body_markdown": "Two groups need water during a dry period: downstream communities and upstream industry/agriculture. Strong demands compete for limited supply. Which response best accounts for multiple stakeholders and long-term sustainability?"
+  }
+]
+

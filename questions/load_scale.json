@@ -1,0 +1,19 @@
+[
+  {
+    "question_id": "LOAD_01",
+    "prompt": "The material felt mentally demanding."
+  },
+  {
+    "question_id": "LOAD_02",
+    "prompt": "I felt overloaded during the lesson."
+  },
+  {
+    "question_id": "LOAD_03",
+    "prompt": "The pace was difficult to manage."
+  },
+  {
+    "question_id": "LOAD_04",
+    "prompt": "The presentation style made it harder to understand."
+  }
+]
+

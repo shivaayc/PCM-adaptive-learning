@@ -1,0 +1,223 @@
+{
+  "F_01": {
+    "question_id": "IQ_F_01",
+    "prompt": "Which statement best explains the greenhouse effect?",
+    "options": [
+      "Earth’s surface reflects most sunlight back to space",
+      "Greenhouse gases absorb and re-emit infrared (heat) radiation",
+      "The atmosphere blocks sunlight, so no heating occurs",
+      "CO2 creates oxygen directly in the lower atmosphere"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Think: gases trap heat by absorbing infrared and then re-emitting it."
+  },
+  "F_02": {
+    "question_id": "IQ_F_02",
+    "prompt": "In the carbon cycle, what is the best example of a carbon sink?",
+    "options": [
+      "Burning coal",
+      "Deforestation releasing stored carbon",
+      "Forests or oceans absorbing CO2 from the air",
+      "Vehicles emitting CO2"
+    ],
+    "correct_option_index": 2,
+    "hint_text": "Sinks remove CO2 from the atmosphere."
+  },
+  "F_03": {
+    "question_id": "IQ_F_03",
+    "prompt": "Which pairing is most accurate?",
+    "options": [
+      "Renewables are replenished quickly; non-renewables take long timescales to replenish",
+      "Non-renewables replenish on short timescales; renewables emit no emissions at all",
+      "Renewables always have higher CO2 emissions during operation than fossil fuels",
+      "Non-renewables never affect climate"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Focus on timescales: renewables vs fossil fuels/coal/oil/gas."
+  },
+  "F_04": {
+    "question_id": "IQ_F_04",
+    "prompt": "Which process correctly belongs to the water cycle?",
+    "options": [
+      "Photosynthesis producing atmospheric CO2",
+      "Evaporation and precipitation moving water between land and atmosphere",
+      "Condensation making sunlight inside clouds",
+      "Nuclear fusion turning water into oxygen gas"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Water cycles through evaporation, condensation, and precipitation."
+  },
+  "F_05": {
+    "question_id": "IQ_F_05",
+    "prompt": "A described system is more likely a feedback system if…",
+    "options": [
+      "A causes B and B never affects A again",
+      "The effect loops back to influence the original cause (directly or indirectly)",
+      "Only one variable changes at a time",
+      "Outcomes happen instantly with no time lag"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Look for loop-back: B changing C, and later influencing A."
+  },
+  "F_06": {
+    "question_id": "IQ_F_06",
+    "prompt": "Which option best matches a systems view of sustainability trade-offs?",
+    "options": [
+      "Only compare costs right now, since future impacts are negligible",
+      "Ask how feedbacks, delays, and interactions could change outcomes over time",
+      "Choose the first solution that seems best for the environment only",
+      "Ignore fairness because it is unrelated to sustainability outcomes"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Systems thinking includes feedbacks, delays, and interactions."
+  },
+
+  "I_01": {
+    "question_id": "IQ_I_01",
+    "prompt": "Which is the best cause-effect chain for emissions to impacts?",
+    "options": [
+      "CO2 emissions → warming → sea level rise / heat extremes",
+      "CO2 emissions → oxygen in the atmosphere → higher rainfall",
+      "Sea level rise → CO2 emissions always decrease automatically",
+      "Heat extremes → CO2 emissions are impossible"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Track links step-by-step: emissions increase warming, which drives impacts."
+  },
+  "I_02": {
+    "question_id": "IQ_I_02",
+    "prompt": "Ice-albedo is mainly an example of…",
+    "options": [
+      "A feedback loop where warming reduces ice, which reduces reflectivity, leading to more warming",
+      "A purely linear effect with no loop-back",
+      "A process with no relationship to climate",
+      "A delay where effects happen instantly"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Warming → less ice → darker surface → absorbs more heat → more warming."
+  },
+  "I_03": {
+    "question_id": "IQ_I_03",
+    "prompt": "Why do delays matter in climate systems?",
+    "options": [
+      "They make all climate effects disappear after a short time",
+      "They can cause actions today to have outcomes over years or decades",
+      "They ensure that feedbacks cannot exist",
+      "They remove the need to plan for the future"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Delays mean the system’s response lags behind the action."
+  },
+  "I_04": {
+    "question_id": "IQ_I_04",
+    "prompt": "Which pair best represents system interaction?",
+    "options": [
+      "Energy choices can affect water use, and water conditions can affect energy reliability",
+      "Energy choices never affect water resources under any condition",
+      "Water availability only affects weather, not human systems",
+      "Energy policies affect only cost, never resources or impacts"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Think: interconnected parts (energy and water) that influence each other."
+  },
+
+  "A_01": {
+    "question_id": "IQ_A_01",
+    "prompt": "Multiple interacting loops are hard to predict because…",
+    "options": [
+      "Only one loop can operate at a time in real systems",
+      "Loops can reinforce each other or interact, changing outcomes beyond any single link",
+      "Delays cannot exist when feedback exists",
+      "Systems always respond in exactly one direction with no complexity"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Interacting feedbacks can change the overall behavior."
+  },
+  "A_02": {
+    "question_id": "IQ_A_02",
+    "prompt": "A tipping-point style threshold implies that…",
+    "options": [
+      "The system shifts abruptly once conditions cross a threshold, and reversal can be difficult",
+      "The system changes smoothly with no major shifts ever",
+      "Small changes always produce no long-term impact",
+      "Long-term consequences appear instantly with no persistence"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Thresholds mean a system can shift more suddenly and be harder to undo."
+  },
+  "A_03": {
+    "question_id": "IQ_A_03",
+    "prompt": "Which statement best captures timing trade-offs?",
+    "options": [
+      "Delaying action can lock in higher warming because of delays and feedbacks",
+      "Early mitigation is always useless because feedbacks prevent improvement",
+      "Action timing cannot change the chance of long-term risks",
+      "Cumulative emissions do not matter"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "With delays/feedbacks, earlier mitigation can reduce cumulative risk."
+  },
+
+  "S_01": {
+    "question_id": "IQ_S_01",
+    "prompt": "In the worked example, the strongest next step after “higher CO2” is…",
+    "options": [
+      "A stronger greenhouse effect (then warming)",
+      "Water turns instantly into sunlight",
+      "CO2 immediately disappears without sinks",
+      "Sea level rise happens before greenhouse effects"
+    ],
+    "correct_option_index": 0,
+    "hint_text": "Greenhouse effect strengthens after CO2 increases."
+  },
+  "S_02": {
+    "question_id": "IQ_S_02",
+    "prompt": "When deciding between linear and feedback thinking, you should primarily check whether…",
+    "options": [
+      "The story has many numbers",
+      "The described effect can loop back to influence the original cause (directly or via intermediates)",
+      "The claim mentions weather once",
+      "The claim uses the word “increase”"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Search for loop-back: cause influences effect, and effect later influences the cause."
+  },
+  "S_03": {
+    "question_id": "IQ_S_03",
+    "prompt": "Which checklist item best supports systems thinking?",
+    "options": [
+      "Focus only on one link and ignore the possibility of unintended consequences",
+      "Check for feedback loops, delays, and interactions",
+      "Avoid considering time because systems cannot change",
+      "Only ask whether the solution looks good today"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "Systems thinking includes feedbacks, delays, and interactions."
+  },
+
+  "E_01": {
+    "question_id": "IQ_E_01",
+    "prompt": "Which response best reflects balanced ethical reasoning for the renewable project dilemma?",
+    "options": [
+      "Prioritize emissions reduction only and ignore community concerns to move faster",
+      "Acknowledge multiple viewpoints (effectiveness + fairness), and propose mitigation for displacement and fair benefit-sharing",
+      "Focus only on complaints without assessing emissions or climate benefits",
+      "Decide based on who is most vocal, not long-term fairness"
+    ],
+    "correct_option_index": 1,
+    "hint_text": "A balanced approach considers both effectiveness and fairness, with concrete safeguards."
+  },
+  "E_02": {
+    "question_id": "IQ_E_02",
+    "prompt": "Which response best reflects ethical reasoning for water allocation during a dry period?",
+    "options": [
+      "Give everything to upstream users since they are closer to supply",
+      "Treat demands as fixed and ignore long-term sustainability",
+      "Consider multiple stakeholders and plan for sustainability (e.g., trade-offs, duration, and preventing harm)",
+      "Let the loudest group decide, regardless of downstream impacts"
+    ],
+    "correct_option_index": 2,
+    "hint_text": "Look for fairness across stakeholders plus long-term sustainability."
+  }
+}
+

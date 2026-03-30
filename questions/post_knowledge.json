@@ -1,0 +1,168 @@
+[
+  {
+    "question_id": "K_01",
+    "prompt": "Why do greenhouse gases tend to warm the lower atmosphere?",
+    "options": [
+      "They block incoming sunlight completely",
+      "They absorb and re-emit outgoing infrared energy",
+      "They directly convert sunlight into oxygen",
+      "They prevent any heat from leaving Earth"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_02",
+    "prompt": "Which option is best described as removing CO2 from the atmosphere?",
+    "options": [
+      "Burning fossil fuels",
+      "Forests and oceans absorbing CO2",
+      "Vehicle exhaust emissions",
+      "Deforestation releasing stored carbon"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_03",
+    "prompt": "Renewable energy differs from fossil fuels largely because…",
+    "options": [
+      "Renewables have short replenishment timescales compared with fossil fuels",
+      "Renewables have higher operating emissions than fossil fuels in every case",
+      "Renewables never affect climate",
+      "Fossil fuels replenish quickly"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_04",
+    "prompt": "Which process is part of the water cycle?",
+    "options": [
+      "Evaporation and precipitation moving water between atmosphere and surface",
+      "Condensation creating additional sunlight",
+      "Fusion turning water into oxygen immediately",
+      "Only pumps without natural cycling"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_05",
+    "prompt": "A feedback system is most likely if…",
+    "options": [
+      "The effect cannot influence the original cause again",
+      "The effect can loop back (directly or indirectly) to influence the original cause",
+      "Time lags are irrelevant",
+      "No intermediate variables exist"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_06",
+    "prompt": "In a cause-effect chain, an essential practice is to…",
+    "options": [
+      "Skip intermediate variables and jump directly to outcomes",
+      "Track the links step-by-step between variables",
+      "Assume the relationship is random each time",
+      "Focus on only one factor and ignore the rest"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_07",
+    "prompt": "Ice-albedo is best described as…",
+    "options": [
+      "A feedback loop where warming can reduce ice, lowering reflectivity and amplifying warming",
+      "A purely linear effect with no loop-back",
+      "A delay-only process",
+      "A relationship unrelated to climate"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_08",
+    "prompt": "Delays in climate systems suggest that…",
+    "options": [
+      "Present actions won’t affect future outcomes",
+      "Outcomes may appear years/decades after the initial change",
+      "Feedback loops cannot occur",
+      "Only short-term impacts count"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_09",
+    "prompt": "Which option correctly describes system interactions?",
+    "options": [
+      "Different parts can affect each other (e.g., energy use can change water reliability)",
+      "Parts never influence each other in real systems",
+      "Interactions only affect cost, not resources",
+      "Interactions are always one-way"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_10",
+    "prompt": "A threshold/tipping-point idea means that…",
+    "options": [
+      "Crossing a threshold can shift system behavior more abruptly",
+      "The system always changes smoothly without major shifts",
+      "Long-term consequences never persist",
+      "Thresholds make reversal instantaneous"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_11",
+    "prompt": "Which statement is a reasonable example of sustainability trade-offs?",
+    "options": [
+      "Improving one goal can create challenges for another (e.g., cost or fairness)",
+      "There are no trade-offs in sustainability decisions",
+      "Only short-term outcomes matter",
+      "Fairness is unrelated to sustainability"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_12",
+    "prompt": "If CO2 increases, a best next step in a simple chain is…",
+    "options": [
+      "More CO2 strengthens the greenhouse effect → warming",
+      "CO2 instantly turns into oxygen with no warming",
+      "Warming reduces CO2 immediately back to zero",
+      "CO2 has no effect on greenhouse effect"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_13",
+    "prompt": "Feedback amplification implies that…",
+    "options": [
+      "A change can reinforce itself by altering conditions that cause more change",
+      "Each change cancels itself perfectly every step",
+      "There is no loop-back in feedback",
+      "Outcomes cannot be influenced"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question_id": "K_14",
+    "prompt": "Which mitigation timing better matches systems thinking?",
+    "options": [
+      "Wait until impacts appear, since delays are unavoidable",
+      "Act early because feedbacks and delays can increase long-term risk",
+      "Mitigation timing cannot change threshold risk",
+      "Delaying always reduces cumulative risk"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question_id": "K_15",
+    "prompt": "A systems approach to sustainability planning emphasizes…",
+    "options": [
+      "Feedbacks, delays, and interactions that change outcomes over time",
+      "A single direct link with no indirect effects",
+      "Ignoring unintended consequences",
+      "Only short-term metrics"
+    ],
+    "correct_option_index": 0
+  }
+]
+

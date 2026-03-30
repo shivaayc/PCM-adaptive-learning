@@ -1,0 +1,58 @@
+[
+  {
+    "question_id": "SYS_01",
+    "prompt": "A city increases CO2 reduction policies. Which response best describes the system relationship for emissions to impacts?",
+    "options": [
+      "Policies will directly reduce emissions and impacts with no intermediate links",
+      "Policies reduce emissions, which can increase temperature effects only if feedbacks are involved",
+      "Policies reduce emissions, strengthening the greenhouse mechanism less, which can change climate impacts",
+      "Policies reduce emissions and, through greenhouse effect changes, can shift temperature and downstream impacts, including possible feedbacks and delays"
+    ],
+    "option_scores": [0, 2, 3, 3]
+  },
+  {
+    "question_id": "SYS_02",
+    "prompt": "Which option best identifies a feedback loop in a warming system?",
+    "options": [
+      "Warming increases CO2, which increases warming by direct injection with no loop-back mechanism",
+      "Warming reduces ice, lowering reflectivity (albedo), causing more warming that further reduces ice",
+      "Warming increases rainfall and this always decreases CO2 immediately",
+      "Warming and ice loss are unrelated"
+    ],
+    "option_scores": [1, 3, 1, 0]
+  },
+  {
+    "question_id": "SYS_03",
+    "prompt": "Suppose a country starts mitigation today. Why might the strongest impacts not appear immediately?",
+    "options": [
+      "Because the system resets each month, so impacts are random",
+      "Because there are delays (e.g., oceans/ice respond over time), so outcomes lag behind actions",
+      "Because feedbacks stop once mitigation starts",
+      "Because CO2 instantly returns to zero"
+    ],
+    "option_scores": [0, 3, 1, 0]
+  },
+  {
+    "question_id": "SYS_04",
+    "prompt": "A policy boosts biofuels to cut emissions. Which response best reasons about unintended consequences?",
+    "options": [
+      "Only emissions matter; land and ecosystems never change outcomes",
+      "Land-use changes can affect food/ecosystems, creating indirect impacts that interact with climate risks",
+      "Biofuels always reduce risks with no trade-offs",
+      "Unintended consequences cannot be predicted"
+    ],
+    "option_scores": [0, 3, 1, 0]
+  },
+  {
+    "question_id": "SYS_05",
+    "prompt": "Which response best captures system interactions in sustainability decisions?",
+    "options": [
+      "Energy decisions affect cost only; they do not affect other resources",
+      "Energy and water can influence each other through usage and reliability, so changing one part can cascade",
+      "Water influences weather only; energy choices never matter",
+      "Systems thinking means using more numbers, not relationships"
+    ],
+    "option_scores": [0, 3, 1, 0]
+  }
+]
+
